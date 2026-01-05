@@ -12,7 +12,7 @@ I’m a passionate Full Stack Developer who loves building scalable, user-friend
 - 🌱 Currently learning: **[e.g., System Design / Cloud / AI / Web3]**
 - 🛠️ Building projects with modern web technologies
 - 🤝 Open to collaboration on interesting projects
-- 📫 Reach me at: **your.email@example.com**
+- 📫 Reach me at: **sagar.goyal.pro11@gmail.com**
 
 ---
 
