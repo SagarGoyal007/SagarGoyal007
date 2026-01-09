@@ -53,6 +53,17 @@ I’m a passionate Full Stack Developer who loves building scalable, user-friend
 **Tech:** HTML, CSS, JS & LocalHost Server 
 🔗 Live Demo | 🔗 GitHub Repo  
 
+## 📂 Minor Projects
+
+### 🔹 Project One - Stack Push & Pop Visualizer
+**Description:** 📊 A visual tool that demonstrates stack push and pop operations step by step.  
+**Tech:** HTML, CSS & JS
+🔗 Live Demo | 🔗 GitHub Repo  
+
+### 🔹 Project Two - Wedding Planner Website
+**Description:** A wedding planning website that helps everyone to easily organize, manage, and plan every part of their wedding in one place.  
+**Tech:** HTML, CSS, JS & LocalHost Server 
+🔗 Live Demo | 🔗 GitHub Repo  
 ---
 
 ## 📊 GitHub Stats
