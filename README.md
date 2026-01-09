@@ -58,12 +58,12 @@ I’m a passionate Full Stack Developer who loves building scalable, user-friend
 ### 🔹 Project One - Stack Push & Pop Visualizer
 **Description:** 📊 A visual tool that demonstrates stack push and pop operations step by step.  
 **Tech:** HTML, CSS & JS
-🔗 https://sagargoyal007.github.io/Minor_Project_FullStack-1/ | 🔗 GitHub Repo  
+🔗 https://sagargoyal007.github.io/Minor_Project_FullStack-1/  
 
-### 🔹 Project Two - Wedding Planner Website
-**Description:** A wedding planning website that helps everyone to easily organize, manage, and plan every part of their wedding in one place.  
-**Tech:** HTML, CSS, JS & LocalHost Server 
-🔗 Live Demo | 🔗 GitHub Repo  
+### 🔹 Project Two - TO-DO List Website
+**Description:** A concise, clear to-do list that tracks tasks, priorities, and progress for my minor project.
+**Tech:** HTML, CSS, JS
+🔗 https://sagargoyal007.github.io/Mini_Project_FullStack-2/  
 ---
 
 ## 📊 GitHub Stats
