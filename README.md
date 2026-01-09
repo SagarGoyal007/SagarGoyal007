@@ -43,14 +43,14 @@ I’m a passionate Full Stack Developer who loves building scalable, user-friend
 
 ## 📂 Featured Projects
 
-### 🔹 Project One
-**Description:** Short description of what the project does  
+### 🔹 Project One - SmartVote System
+**Description:** SmartVote is a secure, digital voting system designed to make elections faster, transparent, and trustworthy.  
 **Tech:** React, Node.js, MongoDB  
 🔗 Live Demo | 🔗 GitHub Repo  
 
-### 🔹 Project Two
-**Description:** Short description of the problem it solves  
-**Tech:** Next.js, PostgreSQL, Tailwind  
+### 🔹 Project Two - Wedding Planner Website
+**Description:** A wedding planning website that helps everyone to easily organize, manage, and plan every part of their wedding in one place.  
+**Tech:** HTML, CSS, JS & LocalHost Server 
 🔗 Live Demo | 🔗 GitHub Repo  
 
 ---
