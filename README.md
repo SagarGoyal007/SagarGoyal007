@@ -46,7 +46,12 @@ I’m a passionate Full Stack Developer who loves building scalable, user-friend
 **Tech:** React, Node.js, MongoDB  
 🔗 Live Demo | 🔗 GitHub Repo  
 
-### 🔹 Project Two - Wedding Planner Website
+### 🔹 Project Two - American Institute Website
+**Description:** “A responsive full-stack educational website for American Institute, featuring course information, student enrollment, contact management, and an admin dashboard.”  
+**Tech:** MERN Stack - React, Node.js, MongoDB  
+🔗https://american-institute-blue.vercel.app/ | 🔗 GitHub Repo  
+
+### 🔹 Project Three - Wedding Planner Website
 **Description:** A wedding planning website that helps everyone to easily organize, manage, and plan every part of their wedding in one place.  
 **Tech:** HTML, CSS, JS & LocalHost Server 
 🔗 Live Demo | 🔗 GitHub Repo  
